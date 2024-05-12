@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="https://imgur.com/kqyZ7vL" width=400 style="display: block; margin: 0 auto"/>
-</p>
+## Hi, I'm Roayda Alaa , a Web Developer 🚀 from Egypt.
 
-<div align='center'>
-  <p align='center'>
+<div >
+  <p>
     <a href="https://www.linkedin.com/in/roaydaalaa"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 &nbsp;&nbsp;
     <a href="mailto:roaydaalaa@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
