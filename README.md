@@ -8,8 +8,10 @@
   </p>
 </div>
 
-### About me
+### About me 😊
 
 * 🎨 Frontend engineer who loves Web Development Technologies.
 * 💻 Back-end Learner with a passion for server-side technologies and database management.
 * 🔥 I really love the thrill of making what I want possible!
+  
+   ![Roayda's github stats](https://github-readme-stats.vercel.app/api?username=Roayda&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
