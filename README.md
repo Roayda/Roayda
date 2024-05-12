@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://imgur.com/kqyZ7vL" width=400 style="display: block; margin: 0 auto"/>
+</p>
 
-<!--
-**Roayda/Roayda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align='center'>
+  <p align='center'>
+    <a href="https://www.linkedin.com/in/roaydaalaa"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+&nbsp;&nbsp;
+    <a href="mailto:roaydaalaa@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
+  </p>
+</div>
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎨 Frontend engineer who loves Web Development Technologies.
+* 💻 Back-end Learner with a passion for server-side technologies and database management.
+* 🔥 I really love the thrill of making what I want possible!
