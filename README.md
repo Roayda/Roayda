@@ -24,7 +24,7 @@
 `HTML5` · `CSS3` · `Bootstrap` · `Tailwind CSS` · `JavaScript (ES6+)` · `TypeScript` · `Angular` · `React (learning)`  
 
 🛠 **Other Powers:**  
-`Git/GitHub` · `SEO` · `Digital Marketing` · `Problem Solving` · `Algorithms` · `OOP`  
+`Git/GitHub` · `Digital Marketing` · `Problem Solving` . `OOP` . `DS `· `Algorithms`
 
 🎨 **Design Vibes:**  
 Exploring **UI/UX** to make interfaces as **beautiful as they are functional** ✨  
