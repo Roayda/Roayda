@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Roayda&label=Profile%20Views&color=9B5DE5&style=flat-square" alt="Profile Views" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=9B5DE5&center=true&vCenter=true&width=800&lines=Hi,+I'm+Roayda+Alaa+👋;Software+Engineer;Frontend+Developer;Certified+Data+Analyst" alt="Typing SVG" />
 </div>
 
@@ -17,26 +21,16 @@
 
 ### 👩‍💻 About Me
 
-**Bridging the gap between data-driven insights and interactive user experiences.**
+> **Bridging the gap between data-driven insights and interactive user experiences.**
 
 - 🎓 **Background:** Computer Science Graduate (FCAI, Fayoum University).
 - 🏅 **Certification:** Certified Data Analyst by the Egyptian Ministry of Communications and Information Technology (MCIT).
-- 💡 **What I Do:** I combine my passion for **Frontend Development** (building elegant, responsive SPAs using Angular) with **Data Analysis** (turning raw complex data into decision-driving Power BI dashboards).
+- 💡 **What I Do:** I combine my passion for **Frontend Development** (building elegant, responsive UIs) with **Data Analysis** (turning raw complex data into decision-driving Power BI dashboards).
 - 🌍 **Goal:** Leveraging software engineering and data analytics to help businesses make data-driven decisions, drive growth, and leave a positive footprint on our community.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-
-**Frontend Development** <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-</p>
 
 **Data Analytics, ML & Business Intelligence** <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
@@ -49,6 +43,16 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+</p>
+
+**Frontend Development** <p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
 </p>
 
 **Computer Science Core & Tools** <p>
@@ -66,11 +70,13 @@
 
 ---
 
-### 🚀 Featured Focus
+### 💼 Portfolio Highlights
 
-- 📊 **Data Dashboards:** Building complex analytical models (HR Workforce, Sales & Time Intelligence, Traffic Accidents Risk Analysis).
-- 💻 **Web Applications:** Developing scalable Single Page Applications (SPAs) focused on clean code and user experience.
-- 📈 **Continuous Growth:** Strengthening my analytical mindset and mastering advanced problem-solving techniques.
+| 📊 Data Analytics & Business Intelligence Projects |
+| :--- |
+| 🔹 [**HR Workforce Analytics Dashboard**](https://github.com/Roayda/HR-Workforce-Analytics-Dashboard) <br> <br> 🔹 [**Sales Performance Dashboard**](https://github.com/Roayda/Sales-Performance-Dashboard) <br> <br> 🔹 [**Traffic Accidents Analysis Dashboard**](https://github.com/Roayda/Traffic-Accident-Analysis-Dashboard) |
+
+*(Click on any project to check the source files and detailed documentation!)*
 
 ---
 
@@ -82,7 +88,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roayda&layout=compact&theme=omni&hide_border=true&title_color=F15BB5&text_color=FFF8F9" alt="Roayda's Top Languages" />
 </div>
 
----
-<p align="center">
-  <i>"I don't just write code; I look for the <b>'Why'</b> behind the numbers and the <b>'How'</b> behind the user experience."</i> ✨
-</p>
+<br>
+
+<div align="center">
+  <p>
+    <i>"I don't just write code; I look for the <b>'Why'</b> behind the numbers and the <b>'How'</b> behind the user experience."</i> ✨
+  </p>
+</div>
